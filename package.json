@@ -1,5 +1,5 @@
 {
-  "name": "leaflet-geometryutil",
+  "name": "@ursinn/leaflet-geometryutil",
   "version": "0.10.1",
   "description": "Leaflet utility functions on geometries",
   "keywords": [
